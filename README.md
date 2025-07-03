@@ -1,4 +1,6 @@
 🔫 Development-of-a-YOLOv11-Based-Monitoring-and-Alert-System-for-Weapon-Detection
+![Screenshot 2025-07-03 135406](https://github.com/user-attachments/assets/c556faab-ba4a-4a83-bc4a-a20fd82dba4a)
+
 
 📌 Overview
 
